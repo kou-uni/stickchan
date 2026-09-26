@@ -7,6 +7,11 @@ This repository is distributed under the MIT License. It contains portions
 derived from other MIT-licensed works, whose copyright notices are retained
 below.
 
+> `LICENSE` は MIT の定型文のままにしてあります。派生についての説明を
+> あのファイルに書き足すと、GitHub の自動判定が "Other" になり、
+> サイドバーに MIT と表示されなくなります（実際にそうなりました）。
+> 表示義務はこのファイルで果たしています。
+
 ---
 
 ## 1. `face.py` — m5stack-avatar からの移植
