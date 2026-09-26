@@ -191,7 +191,8 @@ RTC はありますが、電源を切ると 1970年に戻ります。
 
 ## ライセンス
 
-Apache License 2.0。ただし**顔の形は
-[m5stack-avatar](https://github.com/meganetaaan/m5stack-avatar)（MIT）からの移植**で、
-`boot.py` は M5Stack の UiFlow2 のファイル（MIT）に追記したものです。
-表示は [THIRD-PARTY.md](THIRD-PARTY.md) にあります。
+MIT License。
+
+**顔の形は [m5stack-avatar](https://github.com/meganetaaan/m5stack-avatar)（MIT /
+Shinya Ishikawa）からの移植**で、`boot.py` は M5Stack の UiFlow2 のファイル（MIT）に
+追記したものです。それぞれの著作権表示は [THIRD-PARTY.md](THIRD-PARTY.md) にあります。

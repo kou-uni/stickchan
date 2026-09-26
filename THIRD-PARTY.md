@@ -1,10 +1,11 @@
 # サードパーティの表示 / Third-party notices
 
-このリポジトリは Apache License 2.0 で配布していますが、
-**MIT ライセンスの成果物に由来する部分**を含みます。以下の表示を保持します。
+このリポジトリは MIT ライセンスで配布しています。
+**他の MIT 成果物に由来する部分**を含むので、その著作権表示を保持します。
 
-This repository is distributed under the Apache License 2.0, but contains
-portions derived from MIT-licensed works. The following notices are retained.
+This repository is distributed under the MIT License. It contains portions
+derived from other MIT-licensed works, whose copyright notices are retained
+below.
 
 ---
 
